@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: Schtromar
+Created-By: 11.0.10 (Ubuntu)
+Main-Class: XkcdBot
+
